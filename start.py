@@ -4,4 +4,6 @@ print('hello')
 
 print('fork')
 
-print('branch')
+print('bye')
+
+print('commit 2')
